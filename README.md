@@ -6,7 +6,11 @@ Hello there! 👋 I'm John Asare, a passionate cloud system and security admin w
 
 ### 💻 Tech Stack
 
-🚀 Python | JavaScript | Java | C++ | HTML/CSS | React | Node.js
+🚀 Python | C++ | HTML/CSS | Json | PowerShell | Terraform | Azure ARM | AWS Cloud Foundation
+
+### 📂 👨🏿‍🎓 Certifications
+
+[Azure Administrator](https://www.credly.com/badges/3c6dd95a-de46-4937-a6e1-fed955340624/public_url) | [Messaging Administrator](https://www.credly.com/badges/ca41361f-d32b-4db2-9a66-55df24b73576/public_url) | [AWS Certified Solutions Architect](https://www.credly.com/badges/08a70ae8-d873-48a9-b037-1ecdba7b86ee/public_url)
 
 ### 🌱 Currently Learning
 
