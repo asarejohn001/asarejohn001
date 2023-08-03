@@ -14,11 +14,7 @@ Hello there! 👋 I'm John Asare, a passionate cloud system and security admin w
 
 ### 🌱 Currently Learning
 
-📚 Machine Learning | DevOps | Cloud Computing
-
-### 🔭 I'm Currently Working On
-
-🔍 Building a user-friendly mobile app for language learners.
+📚 Cloud Computing | CCSP | and any new cloud tech
 
 ### 🤝 Let's Collaborate
 
@@ -26,14 +22,7 @@ I'm always open to collaborating on exciting projects and contributing to the co
 
 ### 📫 Contact Me
 
-📧 john.asare@example.com
-
-### 🌟 Let's Connect
-
-🐦 [Twitter](https://twitter.com/johnasare)
-
-📷 [Instagram](https://www.instagram.com/john.asare/)
-
-👔 [LinkedIn](https://www.linkedin.com/in/johnasare/)
+📧 asarejohn001@gmail.com
+📞 929-354-4017
 
 Looking forward to connecting with fellow developers and exploring new opportunities together! 🚀
