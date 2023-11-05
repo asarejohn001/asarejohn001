@@ -6,8 +6,8 @@ Hello there! 👋 I'm John Asare, a passionate Cloud Network and Software Engine
 ### 💻 Tech Stack
 🚀 Python  | Json | PowerShell | Terraform | Azure ARM | AWS Cloud Foundation
 
-### 📂 👨🏿‍🎓 Certifications
-Network (compTIA), CCNA (Cisco), Azure Administrator (Microsoft), Azure Network Engineer (Microsoft)
+### 📂 👨🏿‍🎓 Certifications & Education
+Bachelor of Science in Computer Science | Network (compTIA), CCNA (Cisco), Azure Administrator (Microsoft), Azure Network Engineer (Microsoft)
 
 ### 🌱 Currently Learning
 📚 Software Engineer | CCSP |
