@@ -1,10 +1,7 @@
-## Welcome to My GitHub Profile! 👋
+## Hello World! 👋
 
-Hi there! 😊
-
-I'm all about solving problems for clients, stakeholders, family, and friends with cutting-edge tech at affordable prices. As a cloud engineer and software development author, I aim to make life easier and smoother with innovative solutions.
-
-Feel free to explore my repos to see what I'm working on. Let's connect and create something awesome together! 🚀
+I'm all about using cutting-edge technology to solve problems for clients, stakeholders, family, and friends. 
+As a solution architect with seven years of experience in infrastructure management and a good understanding of software development, I am confident I can help you solve your technology issues. 
 
 ### 📫 Contact Me
 📧 asarejohn001@gmail.com
